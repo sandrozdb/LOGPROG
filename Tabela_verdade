@@ -5,6 +5,6 @@ programa{
 
       	escreva("A AND B: ", A e B, "\n")
       	escreva("A OR B: ", A ou B, "\n")
-      	escreva("NOT A: ", nao B, "\n")
+      	escreva("NOT A: ", nao A, "\n")
        }
 }
